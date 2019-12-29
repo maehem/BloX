@@ -1,0 +1,16 @@
+Tetris: List of things to do.
+
+
+Need to add keyboard commands. 		DONE.
+
+Parse for command line args.		DONE.
+
+Need to improve line animation. 	DONE.
+
+Pause when mouse leaves canvas.  	DONE.
+
+Display "Game Over" text
+
+High score file.
+
+Height function.			DONE.
